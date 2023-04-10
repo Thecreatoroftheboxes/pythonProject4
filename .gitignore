@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+venv/Lib
+.idea/
+venv/
+*.py
+!working_with_the_library_requests.py
